@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shumail Zaidi! 
-- 👀 I’m interested in Software Engineering & Development
-- 🌱 I’m currently learning: C++ and Java and teaching myself Data Structures and Algorithms while doing Leetcode. 
+- 👀 I’m interested in Front-End Development!
+- 🌱 I’m currently learning: Dart and Angular to construct an app and contribute to an investment app for a startup! 
 - 📫 How to reach me: zaidi07@ufl.edu 
  
  Check out my website ! @  shubacca.xyz
