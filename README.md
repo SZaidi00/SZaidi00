@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shumail Zaidi! 
-- 👀 I’m interested in Front-End Development!
+- 👀 I’m interested in Full-Stack Development!
 - 🌱 I’m currently learning: Dart and Angular to construct an app and contribute to an investment app for a startup! 
 - 📫 How to reach me: zaidi07@ufl.edu 
  
