@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shumail Zaidi! 
 - 👀 I’m interested in Full-Stack Development!
 - 🌱 I’m currently learning: Dart and Angular to construct an app and contribute to an investment app for a startup! 
-- 📫 How to reach me: zaidi07@ufl.edu 
+- 📫 How to reach me: shumailz007@gmail.com 
  
  Check out my website ! @  shubacca.xyz
 
